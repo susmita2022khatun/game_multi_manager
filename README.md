@@ -8,7 +8,6 @@ This project is a multiplayer game server-client application that allows users t
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [File Structure](#file-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Game Uploading](#game-uploading)
@@ -31,26 +30,6 @@ This project is a multiplayer game server-client application that allows users t
 - Socket Programming
 - Makefile for build automation
 - Git for version control
-
-## File Structure
-
-```
-project/
-├── client/
-│   ├── client.c
-│   └── makefile
-└── server/
-    ├── upload/
-    ├── games/
-    │   ├── tic_tac_toe.c
-    │   └── tic_tac_toe.h
-    ├── game_manager.c
-    ├── game_manager.h
-    ├── makefile
-    ├── server.c
-    └── user_auth.c
-    └── user_auth.h
-```
 
 ## Installation
 
